@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: anton-watchtower
-name: Watchtower
+id: anton-hello-world
+name: Hello World
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
